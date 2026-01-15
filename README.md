@@ -121,7 +121,6 @@ docker-compose restart
 5. Open a Pull Request
 
 ### Ideas for Contributions
-- [ ] Multi-language support
 - [ ] Advanced rate limiting
 - [ ] Database integration
 - [ ] Payment processing
