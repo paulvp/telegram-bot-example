@@ -1,0 +1,43 @@
+# Development files
+.env.example
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+docs/
+
+# Docker (Railway uses Dockerfile but not compose)
+docker-compose.yml
+
+# Tests
+tests/
+test_*.py
+*_test.py
+
+# Logs (will be generated on Railway)
+logs/
+*.log
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
